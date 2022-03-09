@@ -2,7 +2,7 @@ development:
   adapter: postgresql
   encoding: unicode
   host: localhost
-  database: petstablished_development
+  database: blod_development
   pool: 15
   timeout: 5000
   username: postgres
