@@ -1,0 +1,2 @@
+class LikeDouble < ApplicationRecord
+end
